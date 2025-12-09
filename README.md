@@ -75,11 +75,5 @@ Figma (UI/UX Design)
 UX Research (Interviews, Competitive analysis)
 Wireframing + Hi-Fi Prototypes
 
-📌 Case Study Slides / Prototype (Add links)
-Resource	Link
-Presentation PDF	(Add here)
-Figma Prototype	(Add here)
-Behance / Portfolio	(Optional)
-
 👤 Author
 Dhruv Agrawal
