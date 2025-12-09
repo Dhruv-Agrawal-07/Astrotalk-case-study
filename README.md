@@ -9,15 +9,23 @@ This project focuses on enhancing the user experience of the Astrotalk mobile ap
 Users of Astrotalk often struggle with:
 
 Too many astrologers & overwhelming choices
+
 Lack of clarity in astrologer specialization
+
 Trust issues due to unclear reviews & profile details
+
 Poor filtering & navigation
+
 Low personalization on the homepage
 
 This case study redesign aims to solve those issues while improving:
+
 ✔ Search-to-connection conversion
+
 ✔ User trust & decision clarity
+
 ✔ Personalization based on user behavior
+
 ✔ Engagement and satisfaction
 
 🔍 Research & Insights
@@ -44,6 +52,7 @@ Highlight astrologer credibility with clear indicators
 Simplify profile & review clarity
 
 ✨ Proposed Solutions
+
 Redesigned Key Screens
 
 ✔ Astrologer search screen with upgraded filters
@@ -51,6 +60,7 @@ Redesigned Key Screens
 ✔ Personalized homepage with “Recommended” & “Jump Back In”
 
 🧩 Feature Improvements
+
 Feature	Enhancement
 Filters	Added specialization, experience, availability & CLEAR ALL
 Profile Layout	Clear separation of info + visual hierarchy
@@ -58,13 +68,16 @@ Reviews	Contextual reviews tied to problem type
 Home UI	Use past interactions to personalize cards & suggestions
 
 📊 Success Metrics
+
 Metric	Target
+
 Search → Connection conversion	+20% in 3 months
 Advanced filter usage	50% users within 6 months
 Search abandonment rate	-30%
 User match satisfaction	≥ 75% of users rating ≥ 4★
 
 ⚖️ Trade-offs Considered
+
 Customization vs simplicity
 Personalization vs user autonomy
 Detail depth vs search speed
@@ -76,4 +89,5 @@ UX Research (Interviews, Competitive analysis)
 Wireframing + Hi-Fi Prototypes
 
 👤 Author
+
 Dhruv Agrawal
